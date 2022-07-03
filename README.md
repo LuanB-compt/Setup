@@ -1,4 +1,4 @@
-# AUTOMATIC CONFIGURATION SETUP 
+# **AUTOMATIC CONFIGURATION SETUP LINUX**
 
 Here we have bash files to setup ROS packages and other modules to to facilitate and accelerate this process.
 
