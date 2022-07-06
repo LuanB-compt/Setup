@@ -1,3 +1,4 @@
+#APPS INSTALLATION
 sudo apt update
 
 sudo add-apt-repository ppa:git-core/ppa

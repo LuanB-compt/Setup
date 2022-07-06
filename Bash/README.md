@@ -1,5 +1,16 @@
 # **INSTALLATION TO LINUX UBUNTU 18.04 LTS**
 
+## **APPS SETUP**
+- Installation some famous apps that I always use:
+    - Git
+    - curl
+    - Spotify
+    - Gparted
+    - htop
+    - Zoom               ([download](https://zoom.us/download))
+    - Discord            ([download](https://discord.com/download))
+    - Visual Studio Code ([download](https://code.visualstudio.com/download))
+
 ## **GH CLI SETUP**
 - More information [here](https://github.com/cli/cli)
 ```
