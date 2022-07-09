@@ -89,3 +89,9 @@ $ rosdep install --from-paths src --ignore-src -r -y
 $ catkin_make
 $ source ./devel/setup.bash
 ```
+-------------------------------------
+## **PYTORCH WITH CUDA SETUP**
+More information [here](https://pytorch.org/get-started/locally/)
+```
+$ pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+```
