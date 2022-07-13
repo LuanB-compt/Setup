@@ -4,7 +4,7 @@
 ### **USAGE:**
 ```
 Syntax: python_install.sh [-v|h]
-Options:"
+Options:
 -h     Help function
 -v     Select the Python version that will be installed.
        If don't pass the Python version, will be installed the 3.9 version.
