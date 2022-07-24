@@ -6,3 +6,9 @@
 ```
 DISM /Online /Add-Capability /CapabilityName:Microsoft.Windows.PowerShell.ISE~~~~0.0.1.0
 ```
+
+## **UNINSTALL VIA COMMAND PROMPT**
+- Open the prompt as an administrator:
+```
+DISM /Online /Remove-Capability /CapabilityName:Microsoft.Windows.PowerShell.ISE~~~~0.0.1.0
+```
